@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MmrMrph
+- 👋 Hi, I’m @MmrMrph (Mario)
 - 👀 I’m interested in python, cybersecurity, linux, animes, and a lot of tinks
 - 🌱 I’m currently learning pyhon, html and how to use linux
 - 💞️ I’m looking to collaborate on open source projects in python
